@@ -1,0 +1,11 @@
+.intro_title {
+    margin: 20%;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+    font-size: x-large;
+}
+
+.highlight_text {
+    background-color: yellow;
+}
