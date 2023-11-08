@@ -1,1 +1,4 @@
-
+.app_content {
+    font-family:'Futura';
+    background: linear-gradient(to bottom, rgb(195, 222, 219), transparent);
+}

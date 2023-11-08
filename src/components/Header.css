@@ -1,21 +1,18 @@
 .header_navigation {
     display: flex;
     align-items: center;
-    background-color: lightgray;
     position: relative;
     padding: 10px;
 }
 
 .header_title {
     flex: 2;
-    background-color: antiquewhite;
 }
 
 .header_links {
     display: flex;
     flex: 1;
     justify-content: space-between;
-    background-color: yellow;
     align-items: center;
 }
 

@@ -1,0 +1,23 @@
+.about_content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 10%;
+}
+
+.about_description {
+}
+
+.about_image {
+}
+
+
+.about_skills {
+}
+
+img {
+    width: 30%;
+}
+
+.about_title {
+    font-weight: bold;
+}
